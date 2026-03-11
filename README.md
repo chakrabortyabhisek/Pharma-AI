@@ -78,5 +78,5 @@ If you'd like to contribute:
 
 ### 📩 Contact
 
-For queries, reach out to **Rishabh Kumar Pandey** via [GitHub](https://github.com/rishabhpandey106).
+For queries, reach out to **Abhisek Chakraborty** via [GitHub](https://github.com/chakrabortyabhisek).
 
