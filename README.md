@@ -1,4 +1,4 @@
-# PharmaAI — React UI
+# PharmaAI — AI Medical Assistant
 
 Modern mid-tone React frontend for the PharmaAI medical RAG chatbot.
 
