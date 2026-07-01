@@ -14,6 +14,9 @@
 * ⚡ Fast and responsive user experience
 * 🔒 Supports integration with secure Python backend (FastAPI/Flask)
 
+  <img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/2f0b078a-8b81-448d-a179-6e72f66df9f1" />
+
+
 ---
 
 ## 🛠 Tech Stack
